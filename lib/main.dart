@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:shopcart/pages/splash_screen.dart';
+import 'package:shopcart/screens/splash_screen.dart';
 
 void main() {
   runApp(const MyApp());
